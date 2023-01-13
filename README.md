@@ -20,6 +20,8 @@
 ```
 
 ## Resources 🧑‍💻
+This repo includes [Publish PR Packages](https://github.com/marketplace/actions/publish-pr-packages) as a dependency to auto-publish packages
+for each pull request. Make sure you change the template package name in `ci-release.yml` to your own package name.
 
 ## License 📝
 
